@@ -1,7 +1,7 @@
 let cogumeloJson = [
     {
         id: 1,
-        name: 'Cogumelo Portobelo',
+        name: 'Cogumelo teste',
         img: '../public/imgs/cogumelo-card.jpg',
         price: 15,
         size: 50,
@@ -9,7 +9,7 @@ let cogumeloJson = [
       },
       {
         id: 2,
-        name: 'Cogumelo Marrom',
+        name: 'Cogumelo teste',
         img: '../public/imgs/cogumelo-card.jpg',
         price: 20,
         size: 100,
@@ -17,7 +17,7 @@ let cogumeloJson = [
       },
       {
         id: 3,
-        name: 'Cogumelo Paris',
+        name: 'Cogumelo teste',
         img: '../public/imgs/cogumelo-card.jpg',
         price: 25,
         size: 150,
@@ -25,7 +25,7 @@ let cogumeloJson = [
       },
       {
         id: 4,
-        name: 'Cogumelo Paris',
+        name: 'Cogumelo teste',
         img: '../public/imgs/cogumelo-card.jpg',
         price: 25,
         size: 150,
@@ -33,7 +33,7 @@ let cogumeloJson = [
       },
       {
         id: 5,
-        name: 'Cogumelo Paris',
+        name: 'Cogumelo teste',
         img: '../public/imgs/cogumelo-card.jpg',
         price: 25,
         size: 150,
@@ -41,7 +41,7 @@ let cogumeloJson = [
       },
       {
         id: 6,
-        name: 'Cogumelo Paris',
+        name: 'Cogumelo teste',
         img: '../public/imgs/cogumelo-card.jpg',
         price: 25,
         size: 150,
