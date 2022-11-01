@@ -25,16 +25,7 @@ html{
     scroll-padding-top: 9rem;
     scroll-behavior: smooth;
 }
-/* html::-webkit-scrollbar{
-    width: 0.8rem;
-}
-html::-webkit-scrollbar-track{
-    background: transparent;
-}
-html::-webkit-scrollbar-thumb{
-    background: #fff;
-    border-radius: 5rem;
-} */
+
 body{
     background: var(--bg);
 }
